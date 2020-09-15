@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffce6664682dba9829dc396f14201959",
+    "revision": "34b453230864ca33e736249f9f04bbb2",
     "url": "/InVisionAR-frontend/index.html"
   },
   {
-    "revision": "a078ca48a6f25bb2d799",
+    "revision": "1bf63a8615705fc379c1",
     "url": "/InVisionAR-frontend/static/css/main.e61a2245.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/InVisionAR-frontend/static/js/2.600fb0df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a078ca48a6f25bb2d799",
-    "url": "/InVisionAR-frontend/static/js/main.c26a8289.chunk.js"
+    "revision": "1bf63a8615705fc379c1",
+    "url": "/InVisionAR-frontend/static/js/main.be83ca8a.chunk.js"
   },
   {
     "revision": "f157cc7016c59264a13f",

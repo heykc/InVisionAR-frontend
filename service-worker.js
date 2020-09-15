@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/InVisionAR-frontend/precache-manifest.6c1ef196e9e920a0bfc4d209938f6478.js"
+  "/InVisionAR-frontend/precache-manifest.b05937a00432476b6c69bde26dcc5e41.js"
 );
 
 self.addEventListener('message', (event) => {
